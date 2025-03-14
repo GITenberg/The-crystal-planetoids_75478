@@ -1,0 +1,42 @@
+_repo: The-crystal-planetoids_75478
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hadley, Ned
+    gutenberg_agent_id: '58017'
+    url: http://www.gutenberg.org/2009/agents/58017
+creator:
+  author:
+    agent_name: Coblentz, Stanton A. (Stanton Arthur)
+    alias: Coblentz, Stanton Arthur
+    birthdate: 1896
+    deathdate: 1982
+    gutenberg_agent_id: '33343'
+    url: http://www.gutenberg.org/2009/agents/33343
+    wikipedia: https://en.wikipedia.org/wiki/Stanton_A._Coblentz
+description: ''
+gutenberg_issued: '2025-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75478'
+language: en
+pgterms:marc905: 20250120123835coblentz
+pgterms:marc906: '1942'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aChicago, IL :$bZiff-Davis Publishing Company, $c1942.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Produced from Amazing Stories May 1942.
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'War stories'
+- !lcsh 'Adventure stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Earth (Planet) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The crystal planetoids
+url: http://www.gutenberg.org/ebooks/75478
